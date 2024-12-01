@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+header {
+  text-align: center;
+  background: #eee;
+  padding: 32px 0;
+}
+
+.icon {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+}
+
+h1 {
+  margin: 16px 0 0;
+  font-size: 24px;
+}
+
+p {
+  margin-top: 16px;
+}
+
+main {
+  padding: 64px 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 24px;
+}
+
+.works {
+  margin: 0 auto;
+  width: 400px;
+  margin-top: 64px;
+}
+
+.w-img {
+  width: 400px;
+  height: 240px;
+}
+
+.w-h3 {
+  font-size: 20px;
+  text-align: left;
+  margin-top: 16px;
+}
+
+.w-p {
+  text-align: left;
+}
+
+hr {
+  color: #3333;
+}
+
+footer {
+  text-align: center;
+  padding: 64px 0;
+}
+
+footer > small {
+  color: #a0a0a0;
+  display: block;
+}
+
+.f-box {
+  margin-top: 16px;
+}
+
+.sns {
+  width: 24px;
+}
